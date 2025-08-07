@@ -53,6 +53,11 @@ These two rules guranteed that when we combine or manipulate data in these basic
     <td> you can divide any real number by another real number (except 0) and the result is still a real number.</td>
   </tr>
   <tr>
+    <td>Integers(Z)</td>
+    <td> No </td>
+    <td> 1/2 not in Z.</td>
+  </tr>
+  <tr>
     <td>Integers Modulo 5(Z<sub>5</sub>)</td>
     <td>Yes</td>
     <td>A surise ! With "clock arithemetic ," all operation incluing inverse , result in set {0,1,2,3,4}
